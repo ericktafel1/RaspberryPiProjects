@@ -28,6 +28,7 @@ Employ [Win32DiskImager](https://raspberry-projects.com/pi/pi-operating-systems/
 For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-kali
 ) and follow their wizardry.
 
+![1366822d-f699-495d-bcf6-0af2c5ceb757](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/6e2c04dd-42db-4ad6-b537-1474e1873f4c)
 
 ## The Result
 Although everything was working perfectly, I couldn't help but think I could use my RPi for something more useful. After all this device does the same as my laptop but is much smaller. So I am now playing with the idea of transforming it into a PiHole to block ads and trackers! I will post that write-up soon.
