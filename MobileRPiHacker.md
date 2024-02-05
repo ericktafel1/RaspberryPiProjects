@@ -13,6 +13,8 @@ After months of crafting the perfect mobile hacking setup, I hit a snag – the 
 
 After my hiatus, I found the **right driver** for the LCD screen. Pure joy! Now, our hacking machine boasts a fully functional touchscreen, amplifying its cool factor.
 
+![ad4842d8-cb3b-48f0-8284-a7f4f7d0625b](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/733d3327-b185-4c52-acee-768a5c4b8ff3)
+
 
 ## Installation Guide
 ### 1. Get the Kali Image
@@ -28,10 +30,14 @@ Employ [Win32DiskImager](https://raspberry-projects.com/pi/pi-operating-systems/
 For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-kali
 ) and follow their wizardry.
 
-![1366822d-f699-495d-bcf6-0af2c5ceb757](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/6e2c04dd-42db-4ad6-b537-1474e1873f4c)
+---
+![b8bd908c-4d77-41a1-abed-4ae4592ec301](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/98b864cf-60d7-45f8-908b-f272c7d74b05)
+
 
 ## The Result
 Although everything was working perfectly, I couldn't help but think I could use my RPi for something more useful. After all this device does the same as my laptop but is much smaller. So I am now playing with the idea of transforming it into a PiHole to block ads and trackers! I will post that write-up soon.
+
+![070247cf-6ac7-4f11-b3af-eb6fbd7c59b4](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/0c590e0d-6aa6-441d-bfcc-bca81084611d)
 
 
 ## Contribute and Share the Joy
