@@ -13,6 +13,7 @@ After months of crafting the perfect mobile hacking setup, I hit a snag – the 
 
 After my hiatus, I found the **right driver** for the LCD screen. Pure joy! Now, our hacking machine boasts a fully functional touchscreen, amplifying its cool factor.
 
+Before taking the break, this is what my machine looked like (I edited the /etc/motd (Message of the Day)):
 ![ad4842d8-cb3b-48f0-8284-a7f4f7d0625b](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/733d3327-b185-4c52-acee-768a5c4b8ff3)
 
 
@@ -30,7 +31,7 @@ Employ [Win32DiskImager](https://raspberry-projects.com/pi/pi-operating-systems/
 For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-kali
 ) and follow their wizardry.
 
-
+The machine:
 ![b8bd908c-4d77-41a1-abed-4ae4592ec301](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/98b864cf-60d7-45f8-908b-f272c7d74b05)
 
 
@@ -39,8 +40,5 @@ Although everything was working perfectly, I couldn't help but think I could use
 
 ![070247cf-6ac7-4f11-b3af-eb6fbd7c59b4](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/0c590e0d-6aa6-441d-bfcc-bca81084611d)
 
-
-## Contribute and Share the Joy
-Feel the urge to enhance this hacking wonder? Fork, clone, and dive into the code. Let's make hacking both secure and fun!
 
 # Happy hacking! 🤖💻🔒
