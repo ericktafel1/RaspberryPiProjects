@@ -43,7 +43,3 @@ Now, ads, tracking and telemetry, malicious links, and other domains are blocked
 - [Pi-hole Documentation](https://docs.pi-hole.net/)
 - [Crosstalk Solutions](https://www.crosstalksolutions.com/)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
