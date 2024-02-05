@@ -30,7 +30,7 @@ Employ [Win32DiskImager](https://raspberry-projects.com/pi/pi-operating-systems/
 For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-kali
 ) and follow their wizardry.
 
----
+
 ![b8bd908c-4d77-41a1-abed-4ae4592ec301](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/98b864cf-60d7-45f8-908b-f272c7d74b05)
 
 
