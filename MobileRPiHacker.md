@@ -1,7 +1,7 @@
 # Mobile Raspberry Pi Hacking Machine
----
+
 Welcome to the repository for the Mobile Raspberry Pi Hacking Machine – your gateway to a portable cybersecurity adventure! 🚀
----
+
 ## Project Overview
 ### Components:
 - Raspberry Pi Model: 3 B+
