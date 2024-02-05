@@ -13,28 +13,25 @@ Ahoy, fellow hackers! Picture this: months into crafting the perfect mobile hack
 
 After my hiatus, I stumbled upon the **right driver** for the LCD screen. Pure joy! Now, our hacking machine boasts a fully functional touchscreen, amplifying its cool factor.
 
----
 
 ## Installation Guide
 ### 1. Get the Kali Image
 Visit [Kali Linux](https://www.kali.org/get-kali/#kali-arm) to grab the latest ARM image.
 
-2. Format the SD Card
+### 2. Format the SD Card
 Use the [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) for a clean slate.
 
-3. Write the Image
+### 3. Write the Image
 Employ [Win32DiskImager](https://raspberry-projects.com/pi/pi-operating-systems/win32diskimager) to burn Kali onto your SD card.
 
-4. LCD Driver Magic
+### 4. LCD Driver Magic
 For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-kali
 ) and follow their wizardry.
 
----
 
 ## The Result
 Although everything was working perfectly, I could help but think that I could use my RPi for something more useful. After all this device does the same a my laptop but much smaller. So I am now playing with the idea of transforming it to a PiHole to block ads and trackers! I will post that write up soon.
 
----
 
 ## Contribute and Share the Joy
 Feel the urge to enhance this hacking wonder? Fork, clone, and dive into the code. Let's make hacking both secure and fun!
