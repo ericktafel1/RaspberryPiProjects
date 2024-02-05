@@ -9,9 +9,9 @@ Welcome to the repository for the Mobile Raspberry Pi Hacking Machine – your g
 - Power: Charging bank for on-the-go hacking missions
 
 ### The Break: Finding the Touchscreen Driver
-Ahoy, fellow hackers! Picture this: months into crafting the perfect mobile hacking setup, I hit a snag – the elusive touchscreen driver. Frustration peaked, so I took a breather. Wise move, as it turns out. Sometimes, a step back is all it takes.
+After months of crafting the perfect mobile hacking setup, I hit a snag – the elusive touchscreen driver. Frustration peaked, so I took a breather—a wise move, as it turns out. Sometimes, a step back is all it takes.
 
-After my hiatus, I stumbled upon the **right driver** for the LCD screen. Pure joy! Now, our hacking machine boasts a fully functional touchscreen, amplifying its cool factor.
+After my hiatus, I found the **right driver** for the LCD screen. Pure joy! Now, our hacking machine boasts a fully functional touchscreen, amplifying its cool factor.
 
 
 ## Installation Guide
@@ -30,7 +30,7 @@ For the LCD driver, head to [LCD-show-kali](https://github.com/lcdwiki/LCD-show-
 
 
 ## The Result
-Although everything was working perfectly, I could help but think that I could use my RPi for something more useful. After all this device does the same a my laptop but much smaller. So I am now playing with the idea of transforming it to a PiHole to block ads and trackers! I will post that write up soon.
+Although everything was working perfectly, I couldn't help but think I could use my RPi for something more useful. After all this device does the same as my laptop but is much smaller. So I am now playing with the idea of transforming it into a PiHole to block ads and trackers! I will post that write-up soon.
 
 
 ## Contribute and Share the Joy
