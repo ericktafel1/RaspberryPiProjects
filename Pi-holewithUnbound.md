@@ -1,6 +1,6 @@
 # Pi-hole with Unbound Setup
 
-## Overview
+## Project Overview
 
 This repository contains instructions for setting up Pi-hole with Unbound for enhanced DNS filtering and security. The configuration is based on the tutorial by Crosstalk Solutions [The World's Greatest Pi-hole and Unbound Tutorial 2023](https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/#Lets_get_started) and the Pi-hole documentation [Unbound Integration Guide](https://docs.pi-hole.net/guides/dns/unbound/).
 
