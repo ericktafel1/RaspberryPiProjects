@@ -12,6 +12,9 @@ Ensure you have the following prerequisites before proceeding with the setup:
 - Basic knowledge of working with the command line.
 - Internet connectivity on the device.
 
+![2024-02-05_11-09](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/a0522dac-7721-4297-b477-b8e673da14f1)
+
+
 ## Setup Instructions
 
 Follow these steps to set up Pi-hole with Unbound:
@@ -28,13 +31,12 @@ Follow the Unbound installation instructions from Crosstalk Solutions [Tutorial]
 
 Configure Pi-hole to use Unbound as its upstream DNS server. Refer to the Pi-hole documentation [Unbound Integration Guide](https://docs.pi-hole.net/guides/dns/unbound/).
 
-## Configuration Files
+## Results
 
-This section provides an overview of key configuration files included in this repository:
+Now, ads, tracking and telemetry, malicious links, and other domains are blocked. The web interface allows for review of statistics and logs. I can later configure groups to whitelist or blacklist domains and devices. There is much more functionality but that is beyond the scope of this write-up.
 
-- `pihole-setup.sh`: Shell script for Pi-hole installation.
-- `unbound-setup.sh`: Shell script for Unbound installation.
-- `pihole-unbound-integration.sh`: Shell script for configuring Pi-hole to use Unbound.
+![2024-02-05_11-41](https://github.com/ericktafel1/RaspberryPiProjects/assets/97417443/71f311a2-c2f3-45c4-b391-53f2fc22a89d)
+
 
 ## Additional Resources
 
