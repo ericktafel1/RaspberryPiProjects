@@ -1,5 +1,7 @@
 # Mobile Raspberry Pi Hacking Machine
+Like many techies, I found myself absorbing far too much tech YouTube content. One night, I was watching a content creator and that's when I realized I had to build what he had.
 
+He had a video showcasing a Raspberry Pi that he converted to a mobile hacking device. This small device was used (with permission) at his local coffee shop to perform a Wi-Fi de-authentication attack. I had to try this in my home. So I did what any tech-addicted curious individual would do. I bought the parts and began to tinker.
 Welcome to the repository for the Mobile Raspberry Pi Hacking Machine – your gateway to a portable cybersecurity adventure! 🚀
 
 ## Project Overview
